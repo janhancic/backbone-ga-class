@@ -1,3 +1,10 @@
+## London JS Night Classes: Backbone
+
+This the project I made as part of the [London JS Night Class](http://eventhandler.co.uk/events/ldnjsnightclass-backbone2).
+
+## License
+Licensed under MIT. See `LICENSE.md` file for details.
+
 # Class materials for 'Web apps with Backbone'
 
 Example code for the class, demonstrating two approches to writing a simple exercise app.
